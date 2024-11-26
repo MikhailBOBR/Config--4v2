@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program>
+    <instruction>
+        <operation>load</operation>
+        <arg>5</arg>
+    </instruction>
+    <instruction>
+        <operation>write</operation>
+        <arg>6</arg>
+    </instruction>
+    <instruction>
+        <operation>load</operation>
+        <arg>10</arg>
+    </instruction>
+    <instruction>
+        <operation>write</operation>
+        <arg>7</arg>
+    </instruction>
+    <instruction>
+        <operation>read</operation>
+        <arg>6</arg>
+    </instruction>
+    <instruction>
+        <operation>abs</operation>
+    </instruction>
+    <instruction>
+        <operation>read</operation>
+        <arg>7</arg>
+    </instruction>
+    <instruction>
+        <operation>abs</operation>
+    </instruction>
+</program>
